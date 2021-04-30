@@ -18,7 +18,7 @@ git clone https://github.com/imvijayps/StarkExpo.git
 cd StarkExpo
 ```
 ```
-bash edith.py
+python edith.py
 ```
 ## Then choose the particular tool you wanna install and done!
 
